@@ -1,0 +1,8 @@
+{
+  "name": "sap-payments-api",
+  "description": "Sample of SAP S/4HANA System API for payments, based on FINS Payments Web UI Experience API for Mulesoft Flex Gateway",
+  "repository": "https://github.com/rt-heroku/sap-payments-api",
+  "keywords": ["flex", "gateway", "mulesoft", "docker", "proxy", "sap", "payments"],
+  "stack": "container",
+  "website": "https://docs.mulesoft.com/gateway/flex-gateway-overview"
+}
